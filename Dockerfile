@@ -11,7 +11,7 @@
 #              -t my_matlab_image_name .
 
 # Specify release of MATLAB to build. (use lowercase, default is r2023a)
-ARG MATLAB_RELEASE=r2023a
+ARG MATLAB_RELEASE=r2023b
 
 # Specify the list of products to install into MATLAB, 
 ARG MATLAB_PRODUCT_LIST="MATLAB"
